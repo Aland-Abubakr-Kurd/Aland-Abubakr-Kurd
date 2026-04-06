@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Aland 👋
 
-<!--
-**Aland-Abubakr-Kurd/Aland-Abubakr-Kurd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Science Student (Stage 3)** at the University of Sulaymaniyah. My current focus is building a strong foundation in software logic and system design as I work toward becoming a **Full-Stack Application Developer**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## • About Me
+
+* Learning and practicing software development step by step
+* Currently studying:
+
+  * HTML, CSS, JavaScript
+  * SQL and database systems
+* Planning to move into:
+
+  * React (Web)
+  * React Native (Mobile)
+
+Alongside my coursework, I am also working on a research project about designing efficient and secure database systems for user data protection.
+
+
+## • Learning Approach
+
+I focus on:
+
+* Understanding core concepts rather than memorizing code
+* Building small systems to apply what I learn
+* Gradually moving toward more complex, real-world projects
+
+
+## • Beyond the Code
+I believe in continuous self-improvement and sharing knowledge. When I'm not coding, I manage two YouTube channels:
+- **ApexMind:** Focused on self-improvement and personal growth. Link: https://youtube.com/@apexmindofficial
+- **The Question Mark:** Explaining random, curious topics in a casual and engaging way. Link: https://youtube.com/@thequestionmark101
+
+I am also an avid researcher of technology in general and always try to make time for daily reading to expand my perspective. While I have a deep history with gaming, my focus has shifted toward building my career and professional skills.
+
+
+## • Languages
+- **Kurdish:** Native
+- **English & Arabic:** High proficiency in reading and listening; need practicing for better speaking fluency.
+
+---
+
+*"Learning is a journey of consistent, small steps."*
+
+
+
+
+
+
+
+
+
