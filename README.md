@@ -29,10 +29,6 @@ I focus on:
 
 
 ## • Beyond the Code
-I believe in continuous self-improvement and sharing knowledge. When I'm not coding, I manage two YouTube channels:
-- **ApexMind:** Focused on self-improvement and personal growth. Link: https://youtube.com/@apexmindofficial
-- **The Question Mark:** Explaining random, curious topics in a casual and engaging way. Link: https://youtube.com/@thequestionmark101
-
 I am also an avid researcher of technology in general and always try to make time for daily reading to expand my perspective. While I have a deep history with gaming, my focus has shifted toward building my career and professional skills.
 
 
