@@ -29,7 +29,7 @@ I focus on:
 
 
 ## • Beyond the Code
-I am also an avid researcher of technology in general and always try to make time for daily reading to expand my perspective. While I have a deep history with gaming, my focus has shifted toward building my career and professional skills.
+I am an avid researcher of technology in general and always try to make time for daily reading to expand my perspective. While I have a deep history with gaming, my focus has shifted toward building my career and professional skills.
 
 
 ## • Languages
