@@ -1,36 +1,34 @@
 # Hi, I'm Aland 👋
 
-I am a **Computer Science Student (Stage 3)** at the University of Sulaymaniyah. My current focus is building a strong foundation in software logic and system design as I work toward becoming a **Full-Stack Application Developer**.
-
----
+I am a **Computer Science Student (Stage 4)** at the University of Sulaymaniyah. As I enter my final year, my focus remains on building a reliable foundation in software logic, modern web technologies, and system design, working toward becoming a **Full-Stack Application Developer**.
 
 ## • About Me
 
-* Learning and practicing software development step by step
-* Currently studying:
+Learning and practicing software development step by step. Over the past few years, I have built a solid foundation in:
 
-  * HTML, CSS, JavaScript
+  * Java
+  * Object-Oriented Programming (OOP)
+  * Data Structures
+  * HTML & CSS
   * SQL and database systems
-* Planning to move into:
 
-  * React (Web)
-  * React Native (Mobile)
+While I am comfortable with the concepts and can understand and modify projects confidently, I am still working toward becoming fully independent in building larger applications from scratch.
 
-Alongside my coursework, I am also working on a research project about designing efficient and secure database systems for user data protection.
+Planning to move into:
 
-
-## • Learning Approach
-
-I focus on:
-
-* Understanding core concepts rather than memorizing code
-* Building small systems to apply what I learn
-* Gradually moving toward more complex, real-world projects
-
+ * JavaScript
+ * Secure and Efficient Database Design
+ * Node.js
+ * React (Web)
+ * React Native (Mobile)
+ * Full-Stack Application Development
 
 ## • Beyond the Code
-I am an avid researcher of technology in general and always try to make time for daily reading to expand my perspective. While I have a deep history with gaming, my focus has shifted toward building my career and professional skills.
+I am an avid researcher of technology in general and always try to make time for daily reading to expand my perspective. I also believe in continuous self-improvement and sharing knowledge. When I'm not coding, I manage two YouTube channels:
+- **ApexMind:** Focused on self-improvement and personal growth. Link: https://youtube.com/@apexmindofficial
+- **The Question Mark:** Explaining random, curious topics in a casual and engaging way. Link: https://youtube.com/@thequestionmark101
 
+While I have a deep history with gaming, my focus has shifted toward building my career and professional skills.
 
 ## • Languages
 - **Kurdish:** Native
